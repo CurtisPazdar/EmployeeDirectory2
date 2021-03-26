@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Curtis Pazdar",
+        "dept": "IT",
+        "phone": "555-888-9000"
+    },
+    {
+        "id": 2,
+        "name": "Anna Bellard",
+        "dept": "Human Resources",
+        "phone": "555-888-9001"
+    },
+    {
+        "id": 3,
+        "name": "Hula Ramos",
+        "dept": "Accounting",
+        "phone": "555-888-9002"
+    },
+    {
+        "id": 4,
+        "name": "Al Salvano",
+        "dept": "Medical",
+        "phone": "555-888-9003"
+    },
+    {
+        "id": 5,
+        "name": "Matt Gremmier",
+        "dept": "Engineering",
+        "phone": "555-888-9004"
+    },
+    {
+        "id": 6,
+        "name": "Rick Singer",
+        "dept": "Recruiting",
+        "phone": "555-888-9007"
+    },
+    {
+        "id": 7,
+        "name": "JP Auclair",
+        "dept": "Recreation",
+        "phone": "555-888-9009"
+    },
+    {
+        "id": 8,
+        "name": "Matt Combs",
+        "dept": "Marketing",
+        "phone": "555-888-9011"
+    },
+    {
+        "id": 9,
+        "name": "Fred Bock",
+        "dept": "Recreation",
+        "phone": "555-888-9007"
+    },
+    {
+        "id": 10,
+        "name": "Charles Charlieton",
+        "dept": "Accounting",
+        "phone": "555-888-9007"
+    }
+]
